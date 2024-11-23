@@ -3,7 +3,9 @@ I’m Joseph Simpson, an IT Specialist with a passion for automation, data analy
 
 **About Me**
 **Interests:** IT automation, cybersecurity, data metrics, and custom Excel solutions.
+
 **Current Focus:** Completing my CASP+ certification and expanding my Python scripting skills for system administration.
+
 **Collaboration:** I’m open to working on automation projects, Active Directory tools, and IT reporting dashboards.
 
 **Contact Me**
