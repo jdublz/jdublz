@@ -7,5 +7,5 @@ I’m Joseph Simpson, an IT Specialist with a passion for automation, data analy
 **Collaboration:** I’m open to working on automation projects, Active Directory tools, and IT reporting dashboards.
 
 **Contact Me**
-**LinkedIn:** Joseph Simpson
-**Email:** joseph.simpson@example.com
+**LinkedIn:** https://www.linkedin.com/in/joseph-s-simpson/
+**Email:** joseph.simpson.1@Outlook.com
