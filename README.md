@@ -1,7 +1,7 @@
 **Welcome to my GitHub!**
 I’m Joseph Simpson, an IT Specialist with a passion for automation, data analysis, and creating efficient tools. My projects often focus on integrating technologies like Active Directory, Excel VBA, Python, and PowerShell to streamline workflows and solve real-world problems.
 
-**About Me**
+**About Me:**
 
 **Interests:** IT automation, cybersecurity, data metrics, and custom Excel solutions.
 
