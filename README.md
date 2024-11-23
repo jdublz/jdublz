@@ -8,4 +8,5 @@ I’m Joseph Simpson, an IT Specialist with a passion for automation, data analy
 
 **Contact Me**
 **LinkedIn:** https://www.linkedin.com/in/joseph-s-simpson/
+
 **Email:** joseph.simpson.1@Outlook.com
